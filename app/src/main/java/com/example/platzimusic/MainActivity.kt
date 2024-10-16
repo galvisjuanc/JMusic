@@ -16,6 +16,8 @@ import com.example.platzimusic.ui.theme.PlatziMusicTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_profile)
+
         enableEdgeToEdge()
         setContent {
             PlatziMusicTheme {
