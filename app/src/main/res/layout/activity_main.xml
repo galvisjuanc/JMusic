@@ -8,11 +8,15 @@
     >
 
     <TextView
+        android:id="@+id/tvMainTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/white"
         android:text="Hola Juan Camilo Galvis" />
 
     <EditText
+        android:background="@color/purple_200"
+        android:inputType="number"
         android:hint="Escribe tu nombre"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
