@@ -2,17 +2,24 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    android:gravity="center"
-    android:background="@color/red"
-    >
+    android:gravity="center">
 
     <TextView
         android:id="@+id/tvMainTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@color/white"
-        android:text="Hola Juan Camilo Galvis" />
+        tools:text="Hola Juan Camilo Galvis"
+        tools:background="@color/red" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        tools:textSize="20sp"
+        tools:text="Hola Juan Camilo Galvis"
+        tools:background="@color/purple_500" />
+
 
     <EditText
         android:background="@color/purple_200"
