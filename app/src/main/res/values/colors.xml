@@ -9,4 +9,12 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="red">#ff0000</color>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#689F38</color>
+    <color name="colorAccent">#085494</color>
+    <color name="primaryLight">#DCEDC8</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#BDBDBD</color>
 </resources>
