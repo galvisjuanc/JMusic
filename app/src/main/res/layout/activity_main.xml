@@ -17,6 +17,7 @@
 
     <EditText
         android:id="@+id/etLoginUsername"
+        style="@style/AppTheme.EditTextStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="12dp"
@@ -30,6 +31,7 @@
 
     <EditText
         android:id="@+id/editText"
+        style="@style/AppTheme.EditTextStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="12dp"
