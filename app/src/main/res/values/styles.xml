@@ -16,7 +16,7 @@
 
     <style name="AppTheme.Green" parent="AppTheme">
         <item name="android:textColor">@color/colorPrimaryDark</item>
-        <item name="android:background">#FFFF0000</item>
+        <item name="android:background">@color/red</item>
     </style>
 
     <style name="AppTheme.EditTextStyle" parent="AppTheme">
