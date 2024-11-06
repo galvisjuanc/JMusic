@@ -4,4 +4,6 @@
     <dimen name="text_middle_size">18sp</dimen>
     <dimen name="width_logo">190dp</dimen>
     <dimen name="height_logo">120dp</dimen>
+
+    <dimen name="margin_default">12dp</dimen>
 </resources>
